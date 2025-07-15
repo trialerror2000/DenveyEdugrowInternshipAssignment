@@ -1,0 +1,7 @@
+SET 2
+
+1. Create a bar chart using matplotlib to compare news sold in each month.
+2. Add a new column called "percentage_change" that shows the month-to-month percentage change in news sold.
+3. Filter and display only those months where news_sold is less than 2000.
+4. Group the months into quarters (Q1, Q2, Q3, Q4) and calculate the total news sold in each quarter.
+5. Save only the months with above-average news sold into a new CSV file.
